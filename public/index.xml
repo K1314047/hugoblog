@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>zh-Hans</language>
+    <lastBuildDate>Fri, 19 Jun 2026 10:28:11 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/moments/2026-6-19/</link>
+      <pubDate>Fri, 19 Jun 2026 10:28:11 +0800</pubDate>
+      <guid>http://localhost:1313/moments/2026-6-19/</guid>
+      <description>&lt;p&gt;测试&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/moments/hello/</link>
+      <pubDate>Fri, 19 Jun 2026 10:28:11 +0800</pubDate>
+      <guid>http://localhost:1313/moments/hello/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,13 @@
+baseURL: https://pyq.1314047.xyz  # 替换为你的网站地址
+languageCode: zh-Hans
+theme: moments
+pagination:
+    path: .
+    pagerSize: 10
+
+params:
+    title: "G.Ark朋友圈"
+    signature: "人生如逆旅，我亦是行人。"
+    cover: "/images/background.jpg"
+    name: "G.Ark"
+    avatar: "/images/avatar.jpg"
