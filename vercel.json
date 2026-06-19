@@ -1,0 +1,14 @@
+echo '{
+  "builds": [
+    {
+      "src": "**/*",
+      "use": "@vercel/static-build"
+    }
+  ],
+  "buildCommand": "hugo --gc --minify",
+  "outputDirectory": "public",
+  "env": {
+    "HUGO_VERSION": "0.145.0",
+    "HUGO_EXTENDED": "true"
+  }
+}' > vercel.json
